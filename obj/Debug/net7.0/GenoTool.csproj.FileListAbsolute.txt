@@ -1,0 +1,17 @@
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\GenoTool.exe
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\GenoTool.deps.json
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\GenoTool.runtimeconfig.json
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\GenoTool.dll
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\GenoTool.pdb
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.csproj.AssemblyReference.cache
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.AssemblyInfoInputs.cache
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.AssemblyInfo.cs
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.dll
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\refint\GenoTool.dll
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.pdb
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.genruntimeconfig.cache
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\ref\GenoTool.dll
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Stephan\RiderProjects\GenoTool\GenoTool\obj\Debug\net7.0\GenoTool.csproj.CopyComplete

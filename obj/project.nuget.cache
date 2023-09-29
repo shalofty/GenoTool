@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "byEh5GSei2L5BbBdGululk1qUQRBonEUM16VEQdNvsW67mNBQnef9zU5VkAlUKr9L5U+B83B2RbLpCVBYIuRPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephan\\RiderProjects\\GenoTool\\GenoTool\\GenoTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
